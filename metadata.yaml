@@ -1,0 +1,26 @@
+_repo: Captain-Carey-or-Fighting-the-Indians-at-Pine-Ridge_52609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lounsberry, Lionel
+    gutenberg_agent_id: '46954'
+    url: http://www.gutenberg.org/2009/agents/46954
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/6139
+    - http://www.gutenberg.org/ebooks/author/48056
+description: ''
+gutenberg_issued: '2016-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Wars -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- GITenberg
+title: Captain Carey; or, Fighting the Indians at Pine Ridge
+url: http://www.gutenberg.org/ebooks/52609
