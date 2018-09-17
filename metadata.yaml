@@ -1,5 +1,8 @@
 _repo: Captain-Carey-or-Fighting-the-Indians-at-Pine-Ridge_52609
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52609-h/images/cover.jpg
 creator:
   author:
     agent_name: Lounsberry, Lionel
@@ -9,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/6139
     - http://www.gutenberg.org/ebooks/author/48056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52609#Captain-Carey-or-Fighting-the-Indians-at-Pine-Ridge
 gutenberg_issued: '2016-07-20'
 gutenberg_type: Text
 identifiers:
